@@ -3,7 +3,7 @@ Rally-DeleteCustomView
 
 This is a simple UI for deleting Custom Views for Rally TPS pages, useful when a Custom View has been corrupted and cannot be deleted from the Rally UI.
 
-![App Screenshot](https://raw.githubusercontent.com/markwilliams970/Rally-PreferenceDeleter/master/images/screenshot1.png)
+![App Screenshot](https://raw.githubusercontent.com/markwilliams970/Rally-DeleteCustomView/master/images/screenshot1.png)
 
 ## Usage:
 
