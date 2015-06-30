@@ -31,7 +31,7 @@ You may then delete the Custom View via the Delete button.
 
 Video illustrating usage:
 
-
+http://www.screencast.com/t/fEalbfDf85AC
 
 ## License
 
